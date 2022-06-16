@@ -1,0 +1,14 @@
+.botaoi,
+.botaoii{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.botaoi{
+    background-color: black;
+    color: white;
+}
+
+.botaoii{
+    background-color: yellow;
+}
